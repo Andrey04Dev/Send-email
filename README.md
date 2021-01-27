@@ -20,4 +20,4 @@ En este proyecto super corto vamos poder enviar un email con NodeJs, el cual va 
 
 Muy importante que para que pueda recibir el correo que intregrar al siguiente link y darle en la opción ON or YES porque gmail le va a dar un error que no encuentra el usuario y la contraseña. Obviamente deben selecionar cual cuenta de gmail van a recibir el correo.
 
-    <https://myaccount.google.com/lesssecu...>
+   (https://myaccount.google.com/lesssecu...)
